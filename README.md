@@ -7,3 +7,9 @@
 1 Treking to Bridge
 2 Water sports at Lake
 3 Champing at night with my Friends
+
+* Bamboo Shoots
+* Momo
+* Hot and Crispy Jalebis 
+* Jadoh
+* Putharo
