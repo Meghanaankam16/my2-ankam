@@ -14,3 +14,5 @@
 * Hot and Crispy Jalebis 
 * Jadoh
 * Putharo
+
+[MyStats](MyStats.md)
