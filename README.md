@@ -36,7 +36,7 @@ Here is the table showing the Sports that I will recommand to someone. This tabl
 ## Code Fencing
 >How to make custom error pages
 
-Stack overflow link: <https://stackoverflow.com/questions/13905164/how-to-make-custom-error-pages-work-in-asp-net-mvc-4>
+[Stack overflow link](https://stackoverflow.com/questions/13905164/how-to-make-custom-error-pages-work-in-asp-net-mvc-4)
 ```
 <customErrors mode="On" 
               defaultRedirect="~/Views/Shared/Error.cshtml">
@@ -49,6 +49,6 @@ Stack overflow link: <https://stackoverflow.com/questions/13905164/how-to-make-c
 
 </customErrors>
 ```
-CSS tricks link: <https://css-tricks.com/snippets/htaccess/custom-error-pages/>
+[CSS tricks link](https://css-tricks.com/snippets/htaccess/custom-error-pages/)
 
 
