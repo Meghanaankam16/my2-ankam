@@ -16,3 +16,15 @@
 * Putharo
 
 [link of MyStats](MyStats.md)
+
+----
+## TABLE
+Here is the table showing the Sports that I will recommand to someone. This table contains Sports name, reasons why I Suggest to them and Average hours per week.
+
+|Sport Name|Reason for Recommendation|Average Weekly Time |
+|:---:|:---:|:---:|
+|Swimming|Excellent full-body workout|3-5 hours|
+|Running|Cardiovascular health benefits|3-5 hours|
+|Cycling|Low-impact aerobic exercise|4-6 hours|
+|Basketball|Team camaraderie and cardio|4-7 hours|
+
