@@ -27,4 +27,7 @@ Here is the table showing the Sports that I will recommand to someone. This tabl
 |Running|Cardiovascular health benefits|3-5 hours|
 |Cycling|Low-impact aerobic exercise|4-6 hours|
 |Basketball|Team camaraderie and cardio|4-7 hours|
-
+----
+## Pithy Quotes
+>All that glitters is not gold. -*William Shakespeare*<br>
+>Art is the tree of life. Science is the tree of death. -*William Blake*
