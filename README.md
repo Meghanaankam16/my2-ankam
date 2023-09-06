@@ -31,3 +31,24 @@ Here is the table showing the Sports that I will recommand to someone. This tabl
 ## Pithy Quotes
 >All that glitters is not gold. -*William Shakespeare*<br>
 >Art is the tree of life. Science is the tree of death. -*William Blake*
+
+----
+## Code Fencing
+>How to make custom error pages
+
+Stack overflow link: <https://stackoverflow.com/questions/13905164/how-to-make-custom-error-pages-work-in-asp-net-mvc-4>
+```
+<customErrors mode="On" 
+              defaultRedirect="~/Views/Shared/Error.cshtml">
+
+    <error statusCode="403" 
+           redirect="~/Views/Shared/UnauthorizedAccess.cshtml" />
+
+    <error statusCode="404" 
+           redirect="~/Views/Shared/FileNotFound.cshtml" />
+
+</customErrors>
+```
+CSS tricks link: <https://css-tricks.com/snippets/htaccess/custom-error-pages/>
+
+
