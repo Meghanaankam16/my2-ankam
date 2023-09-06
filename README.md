@@ -15,4 +15,4 @@
 * Jadoh
 * Putharo
 
-[MyStats](MyStats.md)
+[link of MyStats](MyStats.md)
